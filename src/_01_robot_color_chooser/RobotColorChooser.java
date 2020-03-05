@@ -32,7 +32,7 @@ public class RobotColorChooser {
 		
         //6. If the user doesn’t enter anything, choose a random color
 		else {
-			JOptionPane.showMessageDialog(null, "NO RED ONLY!!!");
+			JOptionPane.showMessageDialog(null, "NO BLUE AND RED ONLY!!!");
 		}
 		//7. Put a loop around your code so that you keep asking the user for more colors & drawing them
 		
